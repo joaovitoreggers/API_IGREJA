@@ -42,7 +42,8 @@ class Member(models.Model):
         WorkerType,
         verbose_name='Classificação de Obreiro; ',
         blank=True,
-        null=True
+        null=True,
+        on_delete=models.PROTECT
     )
     created_at = models.DateTimeField(
         auto_now_add=True,

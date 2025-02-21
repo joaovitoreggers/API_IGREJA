@@ -6,7 +6,8 @@ class Department(models.Model):
 
     tenancy = models.ForeignKey(
         Tenancy,
-        verbose_name='Igreja: '
+        verbose_name='Igreja: ',
+        on_delete=models.CASCADE
     )
     name = models.CharField(
         max_length=255,

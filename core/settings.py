@@ -45,7 +45,10 @@ INSTALLED_APPS = [
     'member',
     'suppliers',
     'tenancy',
-    'worker_type'
+    'worker_type',
+    'tax_document',
+    'department_member',
+    'fiscal_transaction'
 
 ]
 

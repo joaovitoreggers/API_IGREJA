@@ -135,4 +135,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Autor
 
-- **Seu Nome:** [joaoguchert195@gmail.com](mailto:joaoguchert195@gmail.com)
+- **João Vitor Guchert Eggers:** [joaoguchert195@gmail.com](mailto:joaoguchert195@gmail.com)

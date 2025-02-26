@@ -1,6 +1,4 @@
-Claro, aqui está o conteúdo formatado em Markdown para o seu arquivo README no GitHub:
 
-```markdown
 # Gerenciamento de Igrejas
 
 ![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)

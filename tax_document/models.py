@@ -3,6 +3,11 @@ from django.db import models
 from tenancy.models import Tenancy
 
 class DocumentType(models.Model):
+    tenancy = models.ForeignKey(
+        Tenancy,
+        on_delete=models.CASCADE,
+        verbose_name='Igreja: ',
+    )
     name = models.CharField(
         max_length=150,
         unique=True,
@@ -53,7 +58,9 @@ class TaxDocument(models.Model):
         DocumentType,
         on_delete=models.CASCADE,
         related_name='Documentos',
-        verbose_name='Tipo de Documentos'
+        verbose_name='Tipo de Documentos',
+        null=True,
+        blank=True
     )
     description = models.TextField(
         blank=True,

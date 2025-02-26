@@ -3,7 +3,7 @@ from tenancy.models import Tenancy
 from django.contrib.auth.models import AbstractUser
 
 class CustomUser(AbstractUser):
-    tenant = models.ForeignKey(
+    tenancy = models.ForeignKey(
         Tenancy,
         on_delete= models.SET_NULL,
         blank=True,

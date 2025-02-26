@@ -3,12 +3,12 @@ from django.db import models
 from tenancy.models import Tenancy
 
 class DocumentType(models.Model):
-    name =models.CharField(
+    name = models.CharField(
         max_length=150,
         unique=True,
         verbose_name='Tipo de Documento'
     )
-    code =  models.CharField(
+    code = models.CharField(
         max_length=50,
         unique=True,
         verbose_name='Código de Verificação'

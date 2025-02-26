@@ -133,25 +133,6 @@ Contribuições são bem-vindas! Se você deseja colaborar com este projeto, sig
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-## Autores
+## Autor
 
-- **Seu Nome:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **Colaborador 1:** [email@exemplo.com](mailto:email@exemplo.com)
-- **Colaborador 2:** [email@exemplo.com](mailto:email@exemplo.com)
-
----
-
-*Este README foi gerado com base nas melhores práticas recomendadas para documentação de projetos no GitHub.*
-```
-
-Para adicionar este conteúdo ao seu repositório no GitHub:
-
-1. **Crie um arquivo chamado `README.md`** na raiz do seu repositório, caso ainda não exista.
-
-2. **Cole o conteúdo acima** no arquivo `README.md`.
-
-3. **Salve e faça commit** das alterações.
-
-Isso garantirá que o README seja exibido corretamente na página inicial do seu repositório no GitHub.
-
-Para mais informações sobre como formatar arquivos README utilizando Markdown, você pode consultar a [documentação oficial do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
+- **Seu Nome:** [joaoguchert195@gmail.com](mailto:joaoguchert195@gmail.com)
